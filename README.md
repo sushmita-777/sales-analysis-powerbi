@@ -4,13 +4,13 @@ Data Visualization of online sales analysis for a store in Power BI
 **OBJECTIVE :**
 Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India
 
-**APPROACH : **
+**APPROACH :**
 1. Review the Source Data.
 2. Data Collection and Preparation - Power Query Editor, Data Modelling, Data Analysis
 4. DAX Measures.
 5. Build dashboard.
 
-**KEY INSIGHTS : **
+**KEY INSIGHTS :**
 1. The most sold product is "Printers" throughout the year.
 2. "Harivansh" is the customer with highest purchase of products on the website.
 3. Most customers belong to the state of "Maharashtra".
